@@ -7,7 +7,7 @@ export default function Home() {
     <main >
       <NavBar />
       <HomeCarousel />
-      <section className="p-32">
+      <section className="md:p-32 p-6">
         <h2 className="text-6xl font-extrabold text-iggreen">Domingo 19h</h2>
         <p></p>
       </section>

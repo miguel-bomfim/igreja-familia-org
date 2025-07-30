@@ -26,7 +26,7 @@ export default function ContactSection() {
 
   return (
     <div className="flex flex-col md:flex-row">
-      <div className="md:w-1/3 bg-igblue text-white p-32 flex flex-col justify-center">
+      <div className="md:w-1/3 bg-igblue text-white md:p-32 p-6 flex flex-col justify-center">
         <h2 className="text-4xl font-bold mb-8">Entre em contato</h2>
 
         <div className="space-y-8">
